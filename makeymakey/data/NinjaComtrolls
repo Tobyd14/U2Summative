@@ -1,0 +1,4 @@
+NiNJA GAme
+LStick_Y	left joystickY	3	SLIDER	Y Axis	0	1.0	0.0
+LStick_X	left joystickX	3	SLIDER	X Axis	0	1.0	0.0
+r3	reset buttom	1	BUTTON	Button 9	0	0.0	0.0
